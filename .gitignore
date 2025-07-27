@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# PDF reports & plots
+*.pdf
+plots/
